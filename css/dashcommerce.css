@@ -55,3 +55,7 @@ ul li {
   text-align: center;
   color: #C0C0C0;
 }
+
+a img {
+    border: none;
+}
