@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+url: http://dashcommerce.github.io
+title: dashCommmerce
+subtitle: An eCommerce application.
 author: Your Name
 simple_search: https://www.google.com/search
 description:
